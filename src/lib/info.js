@@ -13,7 +13,8 @@ export const name = `${firstName} ${lastName}`
 export const avatar = 'https://picsum.photos/id/29/250/250'
 export const bio = `\
 I’m ${firstName}, a Software Engineer based in Springfield, MO. As of now I specialize in full-stack devlopment
-and have been working as the sole Web Developer at a marketing agency for the past year and a half.
+and have been working as the sole Web Developer at a marketing agency for the past year and a half. If you'd like
+to reach out to me please do on LinkedIn or reach out to me at kairuge4@gmail.com
 `
 
 // Your social usernames, empty strings won't be used.
